@@ -1,0 +1,11 @@
+C:\Users\chris\source\repos\melt\melt\bin\Debug\melt.exe.config
+C:\Users\chris\source\repos\melt\melt\bin\Debug\melt.exe
+C:\Users\chris\source\repos\melt\melt\bin\Debug\melt.pdb
+C:\Users\chris\source\repos\melt\melt\obj\Debug\melt.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\melt\melt\obj\Debug\melt.Form1.resources
+C:\Users\chris\source\repos\melt\melt\obj\Debug\melt.Properties.Resources.resources
+C:\Users\chris\source\repos\melt\melt\obj\Debug\melt.csproj.GenerateResource.cache
+C:\Users\chris\source\repos\melt\melt\obj\Debug\melt.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\melt\melt\obj\Debug\melt.exe
+C:\Users\chris\source\repos\melt\melt\obj\Debug\melt.pdb
+C:\Users\chris\source\repos\melt\melt\obj\Debug\melt.Form2.resources
