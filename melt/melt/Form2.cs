@@ -29,12 +29,12 @@ namespace melt
             this.Height = srheight;
             this.Location = new Point(rw, 0);
 
-
+            int pp = rnd.Next(1, 40);
             Bitmap ps = new Bitmap(srwidth, srheight);
             Graphics g = Graphics.FromImage(ps);
             g.CopyFromScreen(rw, 0, 0, r, ps.Size);
             pictureBox1.Image = ps;
-            Width = 10;
+            Width = pp;
         }
     }
 }
